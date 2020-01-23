@@ -5,11 +5,11 @@ To access the app, please visit: https://justinhan33.shinyapps.io/investing_moda
 
 ## Background
 **Do you regularly save some money?**
-* **How much do you tend to save, and how often?** A dollar per day? A few dollars per
+* _**How much do you tend to save, and how often?**_ A dollar per day? A few dollars per
 week? Maybe a few hundred dollars per year?
-* **For what purpose(s) do you save?** For traveling and vacations? For entertainment? For
+* _**For what purpose(s) do you save?**_ For traveling and vacations? For entertainment? For
 your retirement? To buy a house?
-* **Where do you keep/invest (some of) your savings?** This is a tricky question
+* _**Where do you keep/invest (some of) your savings?**_ This is a tricky question
 and the answer heavily depends on your savings goals.
 
 The overarching aim of this project revolves around the following question:
@@ -17,7 +17,7 @@ The overarching aim of this project revolves around the following question:
 money could you expect to accumulate under different saving-investing cases
 (ignoring inflation)?**
 
-## Things to Note
+## Notes
 1. **Initial Amount**: Money to be invested (range:[0,100000]).
 2. **Annual Contribution**: Equivalent to annuity (range:[0,50000]).
 3. **Return Rate (in %)**: Rate of return on investments (range:[0,20]).
