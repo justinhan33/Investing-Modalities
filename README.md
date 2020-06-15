@@ -4,7 +4,7 @@ This project features a shiny app that allows the viewer to visualize—in an in
 To access the app, please visit: https://justinhan33.shinyapps.io/investing_modalities/
 
 ## Background
-**Do you regularly save some money?**
+Do you regularly save some money?
 * _**How much do you tend to save, and how often?**_ A dollar per day? A few dollars per
 week? Maybe a few hundred dollars per year?
 * _**For what purpose(s) do you save?**_ For traveling and vacations? For entertainment? For
